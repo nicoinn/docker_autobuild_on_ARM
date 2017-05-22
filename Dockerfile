@@ -1,4 +1,4 @@
-FROM 5f58ef34937f
+FROM nicoinn/rpi-raspbian-qemu:latest
 
 RUN [ "cross-build-start" ]
 
